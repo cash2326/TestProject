@@ -22,5 +22,6 @@ int main ()
 {
 	printf ("Hello World");
 	printf("\nhere is another line");
+	printf("\n another line");
 	return 0;
 }
